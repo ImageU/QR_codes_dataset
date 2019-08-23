@@ -7,7 +7,7 @@ This is the dataset page of the images dataset related to the following paper:
 
 **Attention:** The dataset will be fully released as soon as we finish the user agreement terms. It will be available until the conference. Until then, this page is under construction, and we may not be able to properly and efficiently review requests.
 
-## Terms of usage
+## Terms of Use
 
 Individual images may be subjected to copyright restrictions. Therefore, we are not making the images directly available.
 
